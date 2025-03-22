@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john@example.com",
+    "phone": "1234567890",
+    "password": "hashedPassword",
+    "userType": "agent",
+    "registrationDate": "2025-03-20 08:38:08",
+    "lastLogin": "2025-03-20 08:38:08",
+    "status": "active"
+  },
+  {
+    "firstName": "janiya",
+    "password": "54as66df",
+    "phone": "0727065266",
+    "registrationDate": "2025-03-20 18:26:22",
+    "userType": "agent",
+    "username": "kala@gmail.com"
+  },
+  {
+    "firstName": "saviru",
+    "password": "kala1234",
+    "phone": "0741255896",
+    "registrationDate": "2025-03-20 19:13:51",
+    "userType": "agent",
+    "username": "kala@gmail.com"
+  },
+  {
+    "firstName": "krishmal",
+    "password": "54as66df",
+    "phone": "0123654789",
+    "registrationDate": "2025-03-20 20:08:33",
+    "userType": "agent",
+    "username": "diniu@gmail.com"
+  }
+]
