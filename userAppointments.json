@@ -1,0 +1,35 @@
+{
+    "appointments": [
+        {
+            "appointmentId": "APT1679558369000",
+            "buyerName": "Alice Cooper",
+            "buyerEmail": "alice@example.com",
+            "buyerPhone": "123-456-7890",
+            "appointmentDate": "2025-03-24",
+            "appointmentTime": "10:30",
+            "agentId": "AGT001",
+            "agentName": "John Doe",
+            "status": "Confirmed",
+            "notes": "Interested in luxury properties",
+            "createdDate": "2025-03-23 08:59:29",
+            "updatedDate": "2025-03-23 08:59:29"
+        }
+    ],
+    "agents": {
+        "AGT001": {
+            "agentId": "AGT001",
+            "name": "John Doe",
+            "specialty": "Residential Properties",
+            "available": true,
+            "appointmentCount": 1
+        },
+        "AGT002": {
+            "agentId": "AGT002",
+            "name": "Jane Smith",
+            "specialty": "Commercial Properties",
+            "available": true,
+            "appointmentCount": 0
+        }
+    },
+    "lastUpdated": "2025-03-23 08:59:29"
+}
