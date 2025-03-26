@@ -1,0 +1,41 @@
+[
+  {
+    "messageId": 1,
+    "propertyId": 3,
+    "agentId": 3,
+    "userName": "Alexander Lee",
+    "userEmail": "alex@example.com",
+    "userPhone": "(555) 987-6543",
+    "messageContent": "I'm interested in scheduling a viewing for the Luxury Beachfront Villa this weekend. Is Saturday morning available?",
+    "userId": "IT24103866",
+    "timestamp": "2025-03-25 22:20:14",
+    "read": true,
+    "status": "REPLIED"
+  },
+  {
+    "messageId": 2,
+    "propertyId": 1,
+    "agentId": 1,
+    "userName": "Emily Johnson",
+    "userEmail": "emily@example.com",
+    "userPhone": "(555) 123-4567",
+    "messageContent": "I have a question about the parking situation at the Modern Downtown Apartment. Is it assigned parking or first-come-first-served?",
+    "userId": "IT24103866",
+    "timestamp": "2025-03-25 22:25:33",
+    "read": true,
+    "status": "PENDING"
+  },
+  {
+    "messageId": 3,
+    "propertyId": 5,
+    "agentId": 2,
+    "userName": "Michael Wong",
+    "userEmail": "mwong@example.com",
+    "userPhone": "Not provided",
+    "messageContent": "I'd like to know if the property taxes are included in the listed price for the Rural Farmhouse. Also, can you tell me more about the water and septic systems?",
+    "userId": "IT24103866",
+    "timestamp": "2025-03-25 22:32:09",
+    "read": false,
+    "status": "NEW"
+  }
+]
